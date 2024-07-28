@@ -1,4 +1,4 @@
-# quizfullapp
+# quizapp
 
 A Qiuz Flutter project.
 
